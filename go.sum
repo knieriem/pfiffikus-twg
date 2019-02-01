@@ -1,0 +1,15 @@
+github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1 h1:PJPDf8OUfOK1bb/NeTKd4f1QXZItOX389VN3B6qC8ro=
+github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1/go.mod h1:1NbS8ALrpOvjt0rHPNLyCIeMtbizbir8U//inJ+zuB8=
+github.com/knieriem/asset v0.1.2 h1:7umYXXAcOwrk3hQF5EtJ/ZUEJ2qt2HLzVrExUShZX8c=
+github.com/knieriem/asset v0.1.2/go.mod h1:L6oBx2OM8cuVK9b+Oc+c0bkZ2J+9m7b45zX0H05JX1k=
+github.com/knieriem/g v0.1.2/go.mod h1:zYg1CmnYJBZ34OwOIRIqoBsvVxbGRjgE4kLQrHz7DBg=
+github.com/knieriem/text v0.2.0 h1:TiT61tL4yRMTtiGmv6wNDt6X0Lv/vlwTLGO6Z98jyGc=
+github.com/knieriem/text v0.2.0/go.mod h1:/DYfAw5ssbZ8kdTgWT78cLygjR0NmR2OwRER++zTEBk=
+github.com/knieriem/vfsutil v0.1.0/go.mod h1:vDmi2mPOtfrWx5UDrPmaErqvaMyTdBnfvPqqIxjP9ik=
+github.com/knieriem/vfsutil v0.1.1 h1:VXXhmlYS7hRvp7FmC44mDsOTi1oMAZY1PryGmZpR8UM=
+github.com/knieriem/vfsutil v0.1.1/go.mod h1:Qjc1UuM923HYETrt+FcEyYZU72+xiR3Ilu37BfzSTFs=
+github.com/lionkov/go9p v0.0.0-20180620135904-0a603dd6808a/go.mod h1:Nbrxd4FljESFB/bUvzT5xm1VNO2VfzMKSIv4L++4J4U=
+golang.org/x/sys v0.0.0-20180824143301-4910a1d54f87/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
+golang.org/x/tools v0.0.0-20180822150542-447b503c8ba6/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
+golang.org/x/tools v0.0.0-20180824175216-6c1c5e93cdc1 h1:EAPsk8kfGCjxQagrkWjzXlUWe2p3gj5MknO+z2o9GKc=
+golang.org/x/tools v0.0.0-20180824175216-6c1c5e93cdc1/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
