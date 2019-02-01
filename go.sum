@@ -9,6 +9,10 @@ github.com/knieriem/vfsutil v0.1.0/go.mod h1:vDmi2mPOtfrWx5UDrPmaErqvaMyTdBnfvPq
 github.com/knieriem/vfsutil v0.1.1 h1:VXXhmlYS7hRvp7FmC44mDsOTi1oMAZY1PryGmZpR8UM=
 github.com/knieriem/vfsutil v0.1.1/go.mod h1:Qjc1UuM923HYETrt+FcEyYZU72+xiR3Ilu37BfzSTFs=
 github.com/lionkov/go9p v0.0.0-20180620135904-0a603dd6808a/go.mod h1:Nbrxd4FljESFB/bUvzT5xm1VNO2VfzMKSIv4L++4J4U=
+github.com/russross/blackfriday/v2 v2.0.1 h1:lPqVAte+HuHNfhJ/0LC98ESWRz8afy9tM/0RK8m9o+Q=
+github.com/russross/blackfriday/v2 v2.0.1/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
+github.com/shurcooL/sanitized_anchor_name v1.0.0 h1:PdmoCO6wvbs+7yrJyMORt4/BmY5IYyJwS/kOiWx8mHo=
+github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
 golang.org/x/sys v0.0.0-20180824143301-4910a1d54f87/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 golang.org/x/tools v0.0.0-20180822150542-447b503c8ba6/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
 golang.org/x/tools v0.0.0-20180824175216-6c1c5e93cdc1 h1:EAPsk8kfGCjxQagrkWjzXlUWe2p3gj5MknO+z2o9GKc=
